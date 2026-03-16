@@ -69,7 +69,8 @@ See `API.md`
 ## 🤝 Contributors
 
 * Malaviya Avakash
-* Project Collaborator
+* Krushn kachhadiya
+  
 
 ---
 
